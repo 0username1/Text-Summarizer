@@ -14,4 +14,4 @@ To run the code, use below commands in project directory :
 ![Screenshot (56)](https://github.com/0username1/Text-Summarizer/assets/102278744/5d4ea5f3-f409-46cf-ba68-1a04bd867de0)
 ![Screenshot (57)](https://github.com/0username1/Text-Summarizer/assets/102278744/fba1a513-b09a-497b-bda6-988a984be2f7)
 
-Research Paper on Fuzzy Inference-based Models for Extractive Text Summarization  : https://drive.google.com/file/d/1bMI1ugoAE7gmua2SvNsUViGFW130TYAq/view?usp=sharing
+Research Paper on Fuzzy Inference-based Models for Extractive Text Summarization  : https://ieeexplore.ieee.org/document/10464787
